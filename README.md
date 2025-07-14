@@ -12,4 +12,7 @@ Full Finetuning of SmolLM2 to increase performance on Math Benchmarks
 *Evaluated only on the test set, not included in the training
 **Evaluated on complete dataset
 
+**Model Weights**: [Huggingface](Ashed00/SmolMath-135M)
+
 **IMPORTANT**: Please refer to this [Blog](https://hackmd.io/@ashu-00/SmolMath) for training details and methodology overview.
+
